@@ -8,6 +8,9 @@
 <body>
     
     <h1>Exemplos de PHP com POO</h1>
+    <hr>
+
+    <h2>Trabalhando com Classes e Objetos</h2>
 
 </body>
 </html>
